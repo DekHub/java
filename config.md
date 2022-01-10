@@ -1,5 +1,5 @@
 # Mysql
-
+安装登陆并修改密码
 ```shell
 # install mysql
 sudo apt install mysql-server
